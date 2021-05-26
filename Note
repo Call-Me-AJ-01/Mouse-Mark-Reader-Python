@@ -1,0 +1,19 @@
+		  Mouse Mark Reader
+
+Note:-
+	
+	It can read in Tamil,Hindi,French,Japanese,English
+
+-->To use mouse mark reader
+
+mark the content using mouse (click and drag) and say read this
+
+	by default it reads in english
+
+-->To read in other language
+
+mark the content using mouse and say read this in tamil
+
+syntax:
+ 	
+ 	read this in hindi(language that u want it to read)
